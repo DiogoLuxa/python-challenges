@@ -1,7 +1,3 @@
-Claro, Diogo! Aqui está sua resposta formatada com o mesmo estilo padronizado que você definiu:
-
----
-
 # 🐍 Exercício 02 – Fatorial de um número fornecido
 
 ## 🧩 Enunciado
