@@ -1,24 +1,28 @@
-# 🐍 Exercício 05 – Classe com métodos para manipulação de string
+# 🐍 Exercício 05 – Classe com encapsulamento e exibição de string em maiúsculo
 
 ## 🧩 Enunciado
 
-Defina uma classe com pelo menos dois métodos:
+Implemente uma classe que:
 
-- `getString`: para **receber uma string** do console.
-- `printString`: para **imprimir a string em letras maiúsculas**.
+- Tenha um método para **receber uma palavra** do usuário.
+- Outro método para **imprimir essa palavra em letras maiúsculas**.
 
-Inclua também uma função simples de teste para **executar os métodos** da classe.
+A classe deve armazenar a palavra como um **atributo de instância**.  
+Inclua um **teste simples** ao final para verificar o funcionamento.
 
 > Exemplo:  
 Entrada → `python`  
 Saída → `PYTHON`
 
-> 💡 *Dica:* Valide que a entrada não contenha números ou caracteres especiais usando o método `.isalpha()`.
+> 💡 *Dica:* Use o método `__init__` para inicializar o atributo.
 
 ## 💻 Solução
 
 ```python
 class PalavraEmCaixaAlta:
+    def __init__(self):
+        self.palavra = ''
+        
     def receber_palavra(self):
         while True:
             palavra = input('Digite uma única palavra - sem números ou espaços: ').strip()
@@ -27,32 +31,30 @@ class PalavraEmCaixaAlta:
             elif not palavra.isalpha():
                 print('Digite apenas letras, sem espaço, números ou caracteres especiais!')
             else:
-                self.imprimir_palavra(palavra.upper())
+                self.palavra = palavra
                 break
         
-    def imprimir_palavra(self, palavra):
-        print(f"Resultado: {palavra}")
+    def imprimir_palavra(self):
+        print(self.palavra.upper())
 
-# 🧪 Teste simples da classe
+# 🧪 Teste da classe
 instancia_teste = PalavraEmCaixaAlta()
 instancia_teste.receber_palavra()
+instancia_teste.imprimir_palavra()
 ```
 
 ## 🧠 Explicação
 
-- A classe `PalavraEmCaixaAlta` encapsula os métodos de entrada e exibição da string.
-- `receber_palavra()` utiliza `input()` e valida a entrada:
-  - `.strip()` remove espaços extras.
-  - `.isalpha()` garante que a palavra contenha apenas letras.
-- Se a entrada estiver válida, o método chama `imprimir_palavra()` com a versão maiúscula da string.
-- O teste da classe é feito instanciando o objeto e chamando o método de entrada.
+- `__init__` inicializa o atributo `self.palavra` como string vazia.
+- `receber_palavra()` solicita a entrada do usuário, valida e atribui à instância.
+- `imprimir_palavra()` acessa o atributo armazenado e o imprime em letras maiúsculas usando `.upper()`.
+- O bloco de teste final instância a classe e executa os dois métodos em sequência.
 
 ## ✅ Exemplo de saída
 
 ```python
 Digite uma única palavra - sem números ou espaços: python
-Resultado: PYTHON
+PYTHON
 ```
 
-> ℹ️ Esse exercício ilustra conceitos de orientação a objetos e boas práticas de validação de entrada em Python.
-
+> ℹ️ Essa versão aprimorada segue os princípios de encapsulamento e reutilização de estado interno da instância.
