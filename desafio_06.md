@@ -1,4 +1,4 @@
-# 🐍 Exercício 06 (refatorado) – Fórmula matemática com filtragem e função personalizada
+# 🐍 Exercício 06 – Fórmula matemática com filtragem e função personalizada
 
 ## 🧩 Enunciado
 
