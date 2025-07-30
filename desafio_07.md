@@ -23,7 +23,7 @@ while True:
 
 x, y = valores
 
-matriz = [[i * j for j in range(y)] for i in range(x)]
+matriz = [[n * i for n in range(y)] for i in range(x)]
 
 print(matriz)
 ```
@@ -35,8 +35,8 @@ print(matriz)
 - A validação rejeita entradas negativas ou com quantidade incorreta de números.
 - A matriz é gerada com list comprehension dupla:
   - `for i in range(x)` para cada linha
-  - `for j in range(y)` para cada coluna
-  - `i * j` calcula o valor do elemento da célula
+  - `for n in range(y)` para cada coluna
+  - `n * i` calcula o valor do elemento da célula
 - `print(matriz)` exibe a estrutura final da matriz como lista de listas.
 
 ## ✅ Exemplo de saída
