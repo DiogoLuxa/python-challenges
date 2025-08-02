@@ -1,5 +1,7 @@
 # 🐍 Exercício 06 – Fórmula matemática com filtragem e função personalizada
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Escreva um programa que:
@@ -65,3 +67,6 @@ digite uma sequência de números inteiros separados por vírgula:
 ```
 
 > ℹ️ Essa versão é mais modular e legível, ideal para reutilização da lógica em outros contextos. A filtragem garante que apenas números válidos sejam processados.
+
+- [Desafio anterior → Desafio 05](./desafio_05.md)  
+- [Próximo desafio → Desafio 07](./desafio_07.md)

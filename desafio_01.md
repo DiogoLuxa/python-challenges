@@ -1,5 +1,7 @@
 # 🐍 Exercício 01 – Números divisíveis por 7 mas não múltiplos de 5
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Escreva um programa que encontre todos os números **divisíveis por 7** mas que **não sejam múltiplos de 5**, no intervalo entre **2000 e 3200** (incluindo os limites).
@@ -30,3 +32,6 @@ print(*[n for n in range(2000, 3201) if n % 7 == 0 and n % 5 != 0], sep=', ')
 
 > ℹ️ Essa é uma solução compacta e eficiente usando list comprehension e desempacotamento com `*`. Ideal para quem já domina os fundamentos de Python.
 
+---
+
+- [Próximo desafio → Desafio 02](./desafio_02.md)

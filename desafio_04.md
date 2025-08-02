@@ -1,5 +1,7 @@
 # 🐍 Exercício 04 – Lista e tupla a partir de números separados por vírgula
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Escreva um programa que aceite uma **sequência de números inteiros separados por vírgula**, fornecida pelo usuário.  
@@ -45,3 +47,6 @@ digite uma sequência de números separados por vírgula: 34,67,55,33,12,98
 ```
 
 > ℹ️ Essa abordagem com `re.findall` garante que apenas os números sejam capturados, ignorando espaços ou possíveis caracteres inválidos na entrada.
+
+- [Desafio anterior → Desafio 03](./desafio_03.md)  
+- [Próximo desafio → Desafio 05](./desafio_05.md)

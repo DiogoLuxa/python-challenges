@@ -1,5 +1,7 @@
 # 🐍 Exercício 05 – Classe com encapsulamento e exibição de string em maiúsculo
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Implemente uma classe que:
@@ -58,3 +60,6 @@ PYTHON
 ```
 
 > ℹ️ Essa versão aprimorada segue os princípios de encapsulamento e reutilização de estado interno da instância.
+
+- [Desafio anterior → Desafio 04](./desafio_04.md)  
+- [Próximo desafio → Desafio 06](./desafio_06.md)

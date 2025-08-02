@@ -1,5 +1,7 @@
 # 🐍 Exercício 08 – Ordenação alfabética de palavras separadas por vírgula
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Escreva um programa que:
@@ -46,3 +48,6 @@ bag,hello,without,world
 ```
 
 > ℹ️ Esse desafio reforça a manipulação de listas, validação de entrada e ordenação — fundamentos sólidos para quem quer dominar Python com estilo.
+
+- [Desafio anterior → Desafio 07](./desafio_07.md)  
+- [Próximo desafio → Desafio 09](./desafio_09.md)

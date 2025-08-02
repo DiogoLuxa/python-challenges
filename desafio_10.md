@@ -1,5 +1,7 @@
 # 🐍 Exercício 10 – Remoção de duplicatas e ordenação alfanumérica de palavras
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Escreva um programa que:
@@ -49,3 +51,6 @@ again and hello makes perfect practice world
 ```
 
 > ℹ️ Esse exercício é excelente para praticar manipulação de texto, uso de conjuntos e ordenação — tudo com validação robusta.
+
+- [Desafio anterior → Desafio 09](./desafio_09.md)  
+- [Próximo desafio → Desafio 11](./desafio_11.md)

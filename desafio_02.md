@@ -1,5 +1,7 @@
 # 🐍 Exercício 02 – Fatorial de um número fornecido
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Escreva um programa que calcule o **fatorial de um número inteiro** fornecido pelo usuário. O resultado deve ser **impresso em uma única linha**, em formato numérico simples (sem lista), como no exemplo abaixo:
@@ -41,3 +43,8 @@ digite um número inteiro: 8
 ```
 
 > ℹ️ Essa solução lida com entrada inválida e calcula o fatorial de forma eficiente usando programação funcional com `reduce`.
+
+---
+
+- [Desafio anterior → Desafio 01](./desafio_01.md)  
+- [Próximo desafio → Desafio 03](./desafio_03.md)

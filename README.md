@@ -2,6 +2,12 @@
 
 Bem-vindo(a)! 👋 Este repositório reúne uma lista de **100 exercícios** desenvolvidos para aprimorar o domínio da linguagem **Python**. Cada exercício é resolvido com foco em clareza, boas práticas e aprendizado progressivo.
 
+## 📂 Sumário dos Desafios
+
+Acesse a lista completa de desafios e soluções:
+
+- [Ver Sumário Completo](./SUMARIO.md)
+
 ## 📌 Objetivo
 
 Este projeto tem como finalidade:

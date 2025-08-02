@@ -1,5 +1,7 @@
 # 🐍 Exercício 07 – Geração de matriz bidimensional com produto de índices
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Escreva um programa que receba **dois números inteiros X e Y** como entrada.  
@@ -47,3 +49,6 @@ digite X,Y: 3,5
 ```
 
 > ℹ️ Esse exercício reforça raciocínio matricial e uso de compreensão de listas — fundamentais para quem avança com Python em ciência de dados ou lógica de programação.
+
+- [Desafio anterior → Desafio 06](./desafio_06.md)  
+- [Próximo desafio → Desafio 08](./desafio_08.md)

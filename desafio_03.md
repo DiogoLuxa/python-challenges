@@ -1,5 +1,7 @@
 # 🐍 Exercício 03 – Dicionário com quadrados de números
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Com um número inteiro `n` fornecido pelo usuário, escreva um programa que gere um **dicionário**, onde cada chave `i` representa um número entre `1` e `n` (inclusive), e o valor correspondente seja o **quadrado de `i`** (`i × i`).  
@@ -41,3 +43,6 @@ digite um número inteiro: 8
 ```
 
 > ℹ️ Esse exercício reforça o uso de compreensões em Python e a manipulação de tipos de dados como dicionários. Simples, direto e poderoso.
+
+- [Desafio anterior → Desafio 02](./desafio_02.md)  
+- [Próximo desafio → Desafio 04](./desafio_04.md)

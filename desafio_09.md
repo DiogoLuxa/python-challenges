@@ -1,5 +1,7 @@
 # 🐍 Exercício 09 – Capitalização de todas as linhas de um texto
 
+- [Voltar ao Sumário](./SUMARIO.md)  
+
 ## 🧩 Enunciado
 
 Escreva um programa que:
@@ -58,3 +60,6 @@ PRACTICE MAKES PERFECT
 ```
 
 > ℹ️ Esse exercício é útil para manipulação de textos multilinha e demonstra como aplicar transformações linha a linha com elegância funcional.
+
+- [Desafio anterior → Desafio 08](./desafio_08.md)  
+- [Próximo desafio → Desafio 10](./desafio_10.md)
