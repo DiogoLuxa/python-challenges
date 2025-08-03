@@ -1,6 +1,6 @@
 # 🐍 Exercício 06 – Fórmula matemática com filtragem e função personalizada
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

@@ -1,6 +1,6 @@
 # 🐍 Exercício 07 – Geração de matriz bidimensional com produto de índices
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

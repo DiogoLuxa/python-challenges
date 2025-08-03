@@ -1,6 +1,6 @@
 # 🐍 Exercício 05 – Classe com encapsulamento e exibição de string em maiúsculo
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

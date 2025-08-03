@@ -1,6 +1,6 @@
 # 🐍 Exercício 10 – Remoção de duplicatas e ordenação alfanumérica de palavras
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

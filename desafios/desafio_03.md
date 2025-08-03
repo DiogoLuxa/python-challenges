@@ -1,6 +1,6 @@
 # 🐍 Exercício 03 – Dicionário com quadrados de números
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

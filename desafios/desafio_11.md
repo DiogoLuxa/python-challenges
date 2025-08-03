@@ -1,6 +1,6 @@
 # 🐍 Exercício 11 – Filtragem de binários divisíveis por 5
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

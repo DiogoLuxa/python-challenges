@@ -1,6 +1,6 @@
 # 🐍 Exercício 09 – Capitalização de todas as linhas de um texto
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

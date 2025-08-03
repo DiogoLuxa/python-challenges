@@ -1,6 +1,6 @@
 # 🐍 Exercício 04 – Lista e tupla a partir de números separados por vírgula
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

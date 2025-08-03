@@ -1,6 +1,6 @@
 # 🐍 Exercício 01 – Números divisíveis por 7 mas não múltiplos de 5
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

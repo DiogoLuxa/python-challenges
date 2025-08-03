@@ -1,6 +1,6 @@
 # 🐍 Desafio 12 – *(em breve)*
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ---
 

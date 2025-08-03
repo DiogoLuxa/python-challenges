@@ -1,6 +1,6 @@
 # 🐍 Exercício 08 – Ordenação alfabética de palavras separadas por vírgula
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 

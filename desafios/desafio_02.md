@@ -1,6 +1,6 @@
 # 🐍 Exercício 02 – Fatorial de um número fornecido
 
-- [Voltar ao Sumário](./SUMARIO.md)  
+- [Voltar ao Sumário](../SUMARIO.md)  
 
 ## 🧩 Enunciado
 
