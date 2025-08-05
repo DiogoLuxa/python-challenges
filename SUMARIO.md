@@ -1,4 +1,4 @@
-# 🐍 Sumário dos Desafios e Respostas em Python
+# 🐍 Sumário dos Desafios em Python
 
 Este documento reúne os links para todos os desafios e suas respectivas soluções em Python.  
 Use-o como guia para navegar pelo conteúdo do projeto.
@@ -21,7 +21,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 10  | Remoção de duplicatas e ordenação alfanumérica de palavras                        | [Desafio 10](./desafios/desafio_10.md)    |
 | 11  | Filtragem de binários divisíveis por 5                                            | [Desafio 11](./desafios/desafio_11.md)    |
 | 12  | Números com todos os dígitos pares                                                | [Desafio 12](./desafios/desafio_12.md)    |
-| 13  | *(em breve)*                                                                      | [Desafio 13](./desafios/desafio_13.md)    |
+| 13  | Contagem de letras e dígitos em uma frase                                         | [Desafio 13](./desafios/desafio_13.md)    |
+| 14  | *(em breve)*                                                                      | *(em construção)*                         |
 
 ---
 
