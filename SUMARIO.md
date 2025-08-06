@@ -22,7 +22,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 11  | Filtragem de binários divisíveis por 5                                            | [Desafio 11](./desafios/desafio_11.md)    |
 | 12  | Números com todos os dígitos pares                                                | [Desafio 12](./desafios/desafio_12.md)    |
 | 13  | Contagem de letras e dígitos em uma frase                                         | [Desafio 13](./desafios/desafio_13.md)    |
-| 14  | *(em breve)*                                                                      | *(em construção)*                         |
+| 14  | Contagem de letras maiúsculas e minúsculas                                        | [Desafio 14](./desafios/desafio_14.md)    |
+| 15  | *(em breve)*                                                                      | *(em construção)*                         |
 
 ---
 
