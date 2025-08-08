@@ -24,7 +24,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 13  | Contagem de letras e dígitos em uma frase                                         | [Desafio 13](./desafios/desafio_13.md)    |
 | 14  | Contagem de letras maiúsculas e minúsculas                                        | [Desafio 14](./desafios/desafio_14.md)    |
 | 15  | Cálculo de a + aa + aaa + aaaa                                                    | [Desafio 15](./desafios/desafio_15.md)    |
-| 16  | *(em breve)*                                                                      | *(em construção)*                         |
+| 16  | Quadrado dos números ímpares de uma lista                                         | [Desafio 16](./desafios/desafio_16.md)    |
+| 17  | *(em breve)*                                                                      | [Desafio 17](./desafios/desafio_17.md)    |
 
 ---
 
