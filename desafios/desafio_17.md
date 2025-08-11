@@ -123,6 +123,11 @@ Seu saldo é de R$ 500.00
 Digite o comando (ex: d 50.00): f
 Encerrando operação...
 ```
+## ▶️ Teste no Google Colab
+
+Quer testar o código diretamente no navegador?
+
+👉 [Abrir no Google Colab](https://colab.research.google.com/drive/1YfrWQUmsnHq99RRZsBwoEtNeFwwybyf6?usp=sharing)
 
 > ℹ️ Esse exercício é excelente para praticar orientação a objetos, validação de entrada e lógica de fluxo interativo em Python.
 
