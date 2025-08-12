@@ -26,7 +26,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 15  | Cálculo de a + aa + aaa + aaaa                                                    | [Desafio 15](./desafios/desafio_15.md)    |
 | 16  | Quadrado dos números ímpares de uma lista                                         | [Desafio 16](./desafios/desafio_16.md)    |
 | 17  | Registro de transações bancárias com saldo final                                  | [Desafio 17](./desafios/desafio_17.md)    |
-| 18  | *(em breve)*                                                                      | [Desafio 18](./desafios/desafio_18.md)    |
+| 18  | Validação de senhas com múltiplos critérios                                       | [Desafio 18](./desafios/desafio_18.md)    |
+| 19  | *(em breve)*                                                                      | [Desafio 19](./desafios/desafio_19.md)    |
 
 ---
 
