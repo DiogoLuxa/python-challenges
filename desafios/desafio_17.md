@@ -127,7 +127,7 @@ Encerrando operação...
 
 Quer testar o código diretamente no navegador?
 
-👉 <a href="https://colab.research.google.com/drive/1YfrWQUmsnHq99RRZsBwoEtNeFwwybyf6?usp=sharing" target="_blank">Abrir no Google Colab</a>
+👉 [Abrir no Google Colab](https://colab.research.google.com/drive/1YfrWQUmsnHq99RRZsBwoEtNeFwwybyf6?usp=sharing)
 
 > ℹ️ Esse exercício é excelente para praticar orientação a objetos, validação de entrada e lógica de fluxo interativo em Python.
 

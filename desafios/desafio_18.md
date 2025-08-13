@@ -79,7 +79,7 @@ Senha válidas: ABd1234@1
 
 Quer testar o código diretamente no navegador?
 
-👉 <a href="https://colab.research.google.com/drive/1r7iSdjO4OPO8BtV0D2usE65zxa-DLP8r?usp=sharing" target="_blank">Abrir no Google Colab</a>
+👉 [Abrir no Google Colab](https://colab.research.google.com/drive/1r7iSdjO4OPO8BtV0D2usE65zxa-DLP8r?usp=sharing)
 
 > ℹ️ Esse exercício é excelente para praticar expressões regulares, validação de entrada e lógica de segurança em Python.
 

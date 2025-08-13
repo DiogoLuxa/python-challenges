@@ -1,28 +1,65 @@
-# 🐍 Desafio 19 – *(em breve)*
+# 🐍 Exercício 19 – Ordenação de tuplas por múltiplos critérios
 
 - [Voltar ao Sumário](../SUMARIO.md)  
 
----
+## 🧩 Enunciado
 
-## 🚧 Em construção...
+Escreva um programa que:
 
-Este desafio ainda está sendo preparado com carinho.  
-Em breve você encontrará aqui:
+- Receba uma **lista** no formato `nome, idade, nota` via entrada do usuário  
+- Ordene a lista em **ordem crescente**, com base nos seguintes critérios:
+  1. Nome
+  2. Idade
+  3. Nota
 
-- 🧩 Um novo enunciado desafiador  
-- 💻 Uma solução elegante em Python  
-- 🧠 Explicações detalhadas para você aprender mais  
-- ✅ Exemplos práticos para testar no seu terminal  
+> A prioridade é nome > idade > nota.
 
----
+- Imprima a lista ordenada como uma lista de tuplas
 
-## 🔔 Fique ligado!
+> Exemplo:  
+Entrada →  
+```
+Tom,19,80 John,20,90 Jony,17,91 Jony,17,93 Json,21,85
+```  
+```
+Saída →  
+[('John', '20', '90'), ('Jony', '17', '91'), ('Jony', '17', '93'), ('Json', '21', '85'), ('Tom', '19', '80')]
+```
 
-Os desafios são lançados **diariamente**.  
-Enquanto isso, que tal revisar os anteriores ou tentar criar seu próprio desafio?
+## 💻 Solução
+
+```python
+import re
+from operator import itemgetter
+
+entrada = re.findall(r"[a-zA-Z]+,\d+,\d+", input('Cole sua lista de nomes, idades e notas (ex: Tom,19,80 John,20,90): '))
+lista = [tuple(item.split(',')) for item in entrada]
+lista_ordenada = sorted(lista, key=itemgetter(0, 1, 2))
+
+print(lista_ordenada)
+```
+
+## 🧠 Explicação
+
+- `re.findall(...)` extrai todas as tuplas válidas no formato `nome,idade,nota`.
+- `split(',')` transforma cada string em uma tupla.
+- `sorted(..., key=itemgetter(0, 1, 2))` ordena por nome, depois idade, depois nota.
+- A saída é exibida como uma lista de tuplas ordenadas.
+
+## ✅ Exemplo de saída
+
+```python
+Cole sua lista de nomes, idades e notas (ex: Tom,19,80 John,20,90): Tom,19,80 John,20,90 Jony,17,91 Jony,17,93 Json,21,85
+[('John', '20', '90'), ('Jony', '17', '91'), ('Jony', '17', '93'), ('Json', '21', '85'), ('Tom', '19', '80')]
+```
+
+## ▶️ Teste no Google Colab
+
+Quer testar o código diretamente no navegador?
+
+👉 [Abrir no Google Colab](https://colab.research.google.com/drive/1tCaWbQ2h2afy8SkcT_ZLyBb7j91_noZi?usp=sharing)
+
+> ℹ️ Esse exercício é excelente para praticar ordenação com múltiplos critérios, manipulação de tuplas e expressões regulares em Python.
 
 - [Desafio anterior → Desafio 18](./desafio_18.md)  
-
----
-
-> 💬 Tem uma ideia de desafio? Compartilhe com a comunidade ou envie sugestões para enriquecer o projeto!
+- [Próximo desafio → Desafio 20](./desafio_20.md)
