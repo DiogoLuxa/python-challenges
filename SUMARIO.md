@@ -28,7 +28,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 17  | Registro de transações bancárias com saldo final                                  | [Desafio 17](./desafios/desafio_17.md)    |
 | 18  | Validação de senhas com múltiplos critérios                                       | [Desafio 18](./desafios/desafio_18.md)    |
 | 19  | Ordenação de tuplas por múltiplos critérios                                       | [Desafio 19](./desafios/desafio_19.md)    |
-| 20  | *(em breve)*                                                                      | [Desafio 20](./desafios/desafio_20.md)    |
+| 20  | Gerador de números divisíveis por 7                                               | [Desafio 20](./desafios/desafio_20.md)    |
+| 21  | *(em breve)*                                                                      | [Desafio 21](./desafios/desafio_21.md)    |
 
 ---
 
