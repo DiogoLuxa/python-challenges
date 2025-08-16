@@ -29,7 +29,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 18  | Validação de senhas com múltiplos critérios                                       | [Desafio 18](./desafios/desafio_18.md)    |
 | 19  | Ordenação de tuplas por múltiplos critérios                                       | [Desafio 19](./desafios/desafio_19.md)    |
 | 20  | Gerador de números divisíveis por 7                                               | [Desafio 20](./desafios/desafio_20.md)    |
-| 21  | *(em breve)*                                                                      | [Desafio 21](./desafios/desafio_21.md)    |
+| 21  | Distância entre ponto inicial e posição final                                     | [Desafio 21](./desafios/desafio_21.md)    |
+| 22  | *(em breve)*                                                                      | [Desafio 22](./desafios/desafio_22.md)    |
 
 ---
 
