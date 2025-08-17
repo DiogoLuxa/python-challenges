@@ -37,8 +37,7 @@ entrada = sorted(input('Digite seu texto aqui: ').split())
 
 entrada_para_dicionario = {n: entrada.count(n) for n in entrada}
 
-[print(f'{chave}:{entrada_para_dicionario[chave]}')
- for chave in entrada_para_dicionario]
+[print(f'{chave}:{entrada_para_dicionario[chave]}') for chave in entrada_para_dicionario]
 ```
 
 ## 🧠 Explicação
