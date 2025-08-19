@@ -32,7 +32,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 21  | Distância entre ponto inicial e posição final                                     | [Desafio 21](./desafios/desafio_21.md)    |
 | 22  | Frequência de palavras com ordenação alfanumérica                                 | [Desafio 22](./desafios/desafio_22.md)    |
 | 23  | Cálculo do quadrado de um número com validação                                    | [Desafio 23](./desafios/desafio_23.md)    |
-| 24  | *(em breve)*                                                                      | [Desafio 24](./desafios/desafio_24.md)    |
+| 24  | Exibição de documentação de funções com `__doc__`                                 | [Desafio 24](./desafios/desafio_24.md)    |
+| 25  | *(em breve)*                                                                      | [Desafio 25](./desafios/desafio_25.md)    |
 
 ---
 
