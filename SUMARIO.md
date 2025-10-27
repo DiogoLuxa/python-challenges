@@ -34,9 +34,10 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 23  | Cálculo do quadrado de um número com validação                                    | [Desafio 23](./desafios/desafio_23.md)    |
 | 24  | Exibição de documentação de funções com `__doc__`                                 | [Desafio 24](./desafios/desafio_24.md)    |
 | 25  | Classe com parâmetro de classe e instância                                        | [Desafio 25](./desafios/desafio_25.md)    |
-| 26  | *(em breve)*                                                                      | [Desafio 26](./desafios/desafio_26.md)    |
+| 26  | Soma de dois números com validação                                                                    | [Desafio 26](./desafios/desafio_26.md)    |
+| 27  | (*em breve*)                                                                    | [Desafio 27](./desafios/desafio_27.md)    |
 
 ---
 
-📌 Os desafios são lançados diariamente.  
+📌 Os desafios são lançados progressivamente.  
 🔍 Tente resolver antes de consultar a resposta!
