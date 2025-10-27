@@ -18,7 +18,7 @@ Em breve você encontrará aqui:
 
 ## 🔔 Fique ligado!
 
-Os desafios são lançados **diariamente**.  
+Os desafios são lançados **progressivamente**.  
 Enquanto isso, que tal revisar os anteriores ou tentar criar seu próprio desafio?
 
 - [Desafio anterior → Desafio 26](./desafio_26.md)  
