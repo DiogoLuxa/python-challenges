@@ -47,12 +47,6 @@ Digite dois números separados por vírgula ou espaço: 3, 7
 10.0
 ```
 
-## ▶️ Teste no Google Colab
-
-Quer testar o código diretamente no navegador?
-
-👉 [Abrir no Google Colab](https://colab.research.google.com/drive/1yB2NEZiAily3Gks0kpnYGztlKVE10TXW?usp=sharing)
-
 > ℹ️ Esse exercício é excelente para praticar definição de funções, manipulação de strings e validação de entrada em Python.
 
 - [Desafio anterior → Desafio 25](./desafio_25.md)  
