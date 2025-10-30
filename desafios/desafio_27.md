@@ -36,12 +36,6 @@ print(int_para_str(3))
 
 *(Aqui o número `3` é exibido como string, mas visualmente aparece igual. A diferença é que agora ele é do tipo `str` em Python.)*
 
-## ▶️ Teste no Google Colab
-
-Quer testar o código diretamente no navegador?
-
-👉 [Abrir no Google Colab](https://colab.research.google.com/drive/1SaW-qZ1qaX12bYaED5MYhWrLAQ7bK8-9?usp=sharing)
-
 > ℹ️ Esse exercício é excelente para praticar definição de funções e conversão de tipos em Python.
 
 - [Desafio anterior → Desafio 26](./desafio_26.md)  

@@ -63,12 +63,6 @@ Digite um número inteiro: 7
 7
 ```
 
-## ▶️ Teste no Google Colab
-
-Quer testar o código diretamente no navegador?
-
-👉 [Abrir no Google Colab](https://colab.research.google.com/drive/11NifZYVv3cNMOMsbkNyFCiIMO2oNeVme?usp=sharing)
-
 > ℹ️ Esse exercício é excelente para praticar criação de geradores, uso de `yield` e encapsulamento com classes em Python.
 
 - [Desafio anterior → Desafio 19](./desafio_19.md)  

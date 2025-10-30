@@ -36,7 +36,8 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 25  | Classe com parâmetro de classe e instância                                        | [Desafio 25](./desafios/desafio_25.md)    |
 | 26  | Soma de dois números com validação                                                | [Desafio 26](./desafios/desafio_26.md)    |
 | 27  | Conversão de inteiro para string                                                  | [Desafio 27](./desafios/desafio_27.md)    |
-| 28  | (*em breve*)                                                                      | [Desafio 28](./desafios/desafio_28.md)    |
+| 28  | Soma de dois inteiros em formato string                                                                                    | [Desafio 28](./desafios/desafio_28.md)    |
+| 29  | Concatenação de duas strings                                                                                   | [Desafio 29](./desafios/desafio_29.md)    |
 
 ---
 

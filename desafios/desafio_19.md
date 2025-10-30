@@ -53,12 +53,6 @@ Cole sua lista de nomes, idades e notas (ex: Tom,19,80 John,20,90): Tom,19,80 Jo
 [('John', '20', '90'), ('Jony', '17', '91'), ('Jony', '17', '93'), ('Json', '21', '85'), ('Tom', '19', '80')]
 ```
 
-## ▶️ Teste no Google Colab
-
-Quer testar o código diretamente no navegador?
-
-👉 [Abrir no Google Colab](https://colab.research.google.com/drive/1tCaWbQ2h2afy8SkcT_ZLyBb7j91_noZi?usp=sharing)
-
 > ℹ️ Esse exercício é excelente para praticar ordenação com múltiplos critérios, manipulação de tuplas e expressões regulares em Python.
 
 - [Desafio anterior → Desafio 18](./desafio_18.md)  

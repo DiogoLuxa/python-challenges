@@ -76,12 +76,6 @@ Digite os movimentos (ex: "up 5, left 3, down 2"): up 5, down 3, left 3, right 2
 2
 ```
 
-## ▶️ Teste no Google Colab
-
-Quer testar o código diretamente no navegador?
-
-👉 [Abrir no Google Colab](https://colab.research.google.com/drive/12x5XD9gtqwNe7IW2wh1rJ267-aKhqv4n?usp=sharing)
-
 > ℹ️ Esse exercício é excelente para praticar vetores, distância euclidiana, expressões regulares e controle de fluxo com `match/case`.
 
 - [Desafio anterior → Desafio 20](./desafio_20.md)  

@@ -48,12 +48,6 @@ Digite um valor para elevar ao quadrado: 3,5
 12.25
 ```
 
-## ▶️ Teste no Google Colab
-
-Quer testar o código diretamente no navegador?
-
-👉 [Abrir no Google Colab](https://colab.research.google.com/drive/118F44rDBHmduophTxizq2XTMPi4mjudG?usp=sharing)
-
 > ℹ️ Esse exercício é excelente para praticar validação de entrada, expressões regulares e formatação numérica em Python.
 
 - [Desafio anterior → Desafio 22](./desafio_22.md)  
