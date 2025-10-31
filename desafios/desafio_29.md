@@ -49,3 +49,4 @@ PythonRocks
 > ℹ️ Esse exercício é excelente para praticar definição de funções, manipulação de strings e validação de entrada em Python.
 
 - [Desafio anterior → Desafio 28](./desafio_28.md)
+- [Próximo desafio → Desafio 30](./desafio_30.md)

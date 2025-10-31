@@ -10,7 +10,7 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | Nº  | Título do Desafio                                                                 | Link                                      |
 |-----|------------------------------------------------------------------------------------|-------------------------------------------|
 | 01  | Números divisíveis por 7 mas não múltiplos de 5                                   | [Desafio 01](./desafios/desafio_01.md)    |
-| 02  | Fatorial de um número fornecido                                                   | [Desafio 02](./desafios/desafio_02.md)    |
+| 02  | Soma de dois números com validação                                                | [Desafio 02](./desafios/desafio_02.md)    |
 | 03  | Dicionário com quadrados de números                                               | [Desafio 03](./desafios/desafio_03.md)    |
 | 04  | Lista e tupla a partir de números separados por vírgula                           | [Desafio 04](./desafios/desafio_04.md)    |
 | 05  | Classe com encapsulamento e exibição de string em maiúsculo                       | [Desafio 05](./desafios/desafio_05.md)    |
@@ -36,8 +36,10 @@ Use-o como guia para navegar pelo conteúdo do projeto.
 | 25  | Classe com parâmetro de classe e instância                                        | [Desafio 25](./desafios/desafio_25.md)    |
 | 26  | Soma de dois números com validação                                                | [Desafio 26](./desafios/desafio_26.md)    |
 | 27  | Conversão de inteiro para string                                                  | [Desafio 27](./desafios/desafio_27.md)    |
-| 28  | Soma de dois inteiros em formato string                                                                                    | [Desafio 28](./desafios/desafio_28.md)    |
-| 29  | Concatenação de duas strings                                                                                   | [Desafio 29](./desafios/desafio_29.md)    |
+| 28  | Soma de dois inteiros em formato string                                           | [Desafio 28](./desafios/desafio_28.md)    |
+| 29  | Concatenação de duas strings                                                      | [Desafio 29](./desafios/desafio_29.md)    |
+| 30  | Comparação de comprimento entre duas strings                                      | [Desafio 30](./desafios/desafio_30.md)    |
+| 31  | Dicionário de números e seus quadrados                                            | [Desafio 31](./desafios/desafio_31.md)    |
 
 ---
 
