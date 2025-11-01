@@ -10,7 +10,7 @@ Cada exercício é focado em tarefas do dia a dia de profissionais de *Blue Team
 
 Acesse a lista completa de desafios, cenários e soluções:
 
-  * [Ver Sumário Completo](https://www.google.com/search?q=SUMARIO.md) (Em breve)
+  * [Ver Sumário Completo](SUMARIO.md)
 
 -----
 
@@ -27,16 +27,18 @@ Este projeto tem como finalidade:
 
 ### 🧪 Conteúdo Abordado
 
-Os exercícios cobrem diversos tópicos essenciais para o profissional de segurança:
+Os exercícios cobrem os dois grandes domínios da cibersegurança, divididos em módulos:
 
-| Tópico | Exemplos Práticos |
+| Módulo / Seção | Exemplos Práticos |
 | :--- | :--- |
-| 🛡️ **Análise de Logs** | Parsing de logs (Apache, SSH), detecção de IPs suspeitos, uso de Regex. |
-| 🌐 **Redes e Scanning** | Criação de Port Scanners (com Sockets), automação de ferramentas (Nmap). |
-| 🕸️ **Web & OSINT** | Web scraping para coleta de informações, interação com APIs (VirusTotal, Shodan). |
-| ⚙️ **Automação (Blue/Red)**| Scripts para verificação de *hardening*, automação de *recon*. |
-| 📊 **Manipulação de Dados** | Uso de Pandas para analisar grandes datasets de segurança (ex: logs CSV). |
-| 🔍 **Análise de Artefatos** | Extração de *strings* de binários, cálculo de *hashes* (MD5, SHA256). |
+| 🔵 **Módulo 1: Defesa & Análise (Blue Team)** | |
+| 1.1: Análise de Logs | Parsing (Regex), Agregação de dados (Contadores), Exportação (JSON/CSV). |
+| 1.2: Forense e Resposta | Integração com APIs (VirusTotal), Análise de arquivos (Módulo `os`), caça a malware (YARA). |
+| 1.3: Automação Defensiva | Automação SSH (Paramiko), Análise de tráfego passiva (Scapy). |
+| 🔴 **Módulo 2: Ataque & Reconhecimento (Red Team)** | |
+| 2.1: Scanning & Enumeração | Port scanning (Sockets), Coleta de Banners, Automação de ferramentas (Subprocess). |
+| 2.2: OSINT & Web | Coleta de informações (Requests/BeautifulSoup). |
+| 2.3: Testes de Rede | Criação e envio de pacotes customizados (Scapy). |
 
 Cada exercício é apresentado com um **cenário**, o **objetivo** e uma **solução comentada** para facilitar o aprendizado.
 
@@ -50,6 +52,6 @@ Para aproveitar ao máximo, tente resolver cada cenário por conta própria ante
 
 ### 🙌 Origem dos Exercícios
 
-Estes exercícios foram criados como parte de um projeto colaborativo entre **[Diogo Luxa/DiogoLuxa do GitHub]** e a **IA Gemini (Google)**, com o objetivo de criar um guia prático para quem está estudando Python focado em segurança.
+Estes exercícios foram criados como parte de um projeto colaborativo entre **[Diogo/DiogoLuxa do GitHub]** e a **IA Gemini (Google)**, com o objetivo de criar um guia prático para quem está estudando Python focado em segurança.
 
 Fique à vontade para contribuir, sugerir novos desafios ou melhorias\!
