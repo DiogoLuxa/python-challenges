@@ -1,49 +1,55 @@
-# 🐍 100 Exercícios Resolvidos em Python
+# 🛡️ Python para Cibersegurança: Exercícios Práticos
 
-Bem-vindo(a)! 👋 Este repositório reúne uma lista de **100 exercícios** desenvolvidos para aprimorar o domínio da linguagem **Python**. Cada exercício é resolvido com foco em clareza, boas práticas e aprendizado progressivo.
+Bem-vindo(a)\! 👋 Este repositório reúne uma série de exercícios práticos desenvolvidos para aplicar a linguagem **Python** em cenários reais de **Cibersegurança**.
 
-## 📂 Sumário dos Desafios
+Cada exercício é focado em tarefas do dia a dia de profissionais de *Blue Team*, *Red Team* e *Pentest*, com foco em clareza, automação e aprendizado progressivo.
 
-Acesse a lista completa de desafios e soluções:
+-----
 
-- [Ver Sumário Completo](./SUMARIO.md)
+### 📂 Sumário dos Exercícios
 
-## 📌 Objetivo
+Acesse a lista completa de desafios, cenários e soluções:
+
+  * [Ver Sumário Completo](https://www.google.com/search?q=SUMARIO.md) (Em breve)
+
+-----
+
+### 📌 Objetivo
 
 Este projeto tem como finalidade:
-- Fixar conceitos fundamentais e intermediários da linguagem Python
-- Praticar estruturas de controle, manipulação de dados, funções e muito mais
-- Criar uma base sólida para projetos maiores e entrevistas técnicas
 
-## 🧪 Conteúdo Abordado
+  * **Aplicar** conceitos fundamentais de Python em cenários práticos de segurança.
+  * **Praticar** a automação de tarefas de análise de logs, *scanning* de rede e coleta de informações (OSINT).
+  * **Criar** um portfólio sólido e prático focado em Cybersecurity.
+  * **Preparar** para entrevistas técnicas e desafios do cotidiano da área.
 
-Os exercícios cobrem diversos tópicos, incluindo:
+-----
 
-| Tema                     | Exemplos                    |
-|-------------------------|-----------------------------|
-| Variáveis e Tipos       | Inteiros, floats, strings   |
-| Estruturas de Controle  | `if`, `else`, `for`, `while` |
-| Funções                 | Parâmetros, retorno, lambda |
-| Listas e Dicionários    | Compreensão, métodos        |
-| Manipulação de Strings  | Fatiamento, formatação      |
-| Tratamento de Erros     | `try`, `except`             |
-| Módulos e Pacotes       | `math`, `random`, `datetime` |
-| Programação Funcional   | `map`, `filter`, `reduce`   |
-| Orientação a Objetos    | Classes, herança, métodos   |
+### 🧪 Conteúdo Abordado
 
-Cada exercício está numerado e comentado para facilitar a leitura e compreensão.
+Os exercícios cobrem diversos tópicos essenciais para o profissional de segurança:
 
-## 💡 Sugestão
+| Tópico | Exemplos Práticos |
+| :--- | :--- |
+| 🛡️ **Análise de Logs** | Parsing de logs (Apache, SSH), detecção de IPs suspeitos, uso de Regex. |
+| 🌐 **Redes e Scanning** | Criação de Port Scanners (com Sockets), automação de ferramentas (Nmap). |
+| 🕸️ **Web & OSINT** | Web scraping para coleta de informações, interação com APIs (VirusTotal, Shodan). |
+| ⚙️ **Automação (Blue/Red)**| Scripts para verificação de *hardening*, automação de *recon*. |
+| 📊 **Manipulação de Dados** | Uso de Pandas para analisar grandes datasets de segurança (ex: logs CSV). |
+| 🔍 **Análise de Artefatos** | Extração de *strings* de binários, cálculo de *hashes* (MD5, SHA256). |
 
-Para aproveitar ao máximo, tente resolver cada exercício por conta própria antes de consultar a solução. Aprendizado vem da prática! 😉
+Cada exercício é apresentado com um **cenário**, o **objetivo** e uma **solução comentada** para facilitar o aprendizado.
 
-## 🙌 Créditos
+-----
 
-Os exercícios originais foram propostos por **[Darkprinx](https://github.com/darkprinx)**, com base no projeto [_100+ Python Exercises with Solutions_](https://github.com/darkprinx/break-the-ice-with-python/).  
-Este repositório apresenta **soluções sugestivas** desenvolvidas com fins educativos, baseadas nos desafios criados por ele.  
-Todos os méritos pela criação da lista original de exercícios vão para o autor.
+### 💡 Sugestão
 
----
+Para aproveitar ao máximo, tente resolver cada cenário por conta própria antes de consultar a solução. O aprendizado em segurança vem da prática e da "mentalidade do atacante/defensor"\! 😉
 
-Fique à vontade para contribuir ou sugerir melhorias.
+-----
 
+### 🙌 Origem dos Exercícios
+
+Estes exercícios foram criados como parte de um projeto colaborativo entre **[Diogo Luxa/DiogoLuxa do GitHub]** e a **IA Gemini (Google)**, com o objetivo de criar um guia prático para quem está estudando Python focado em segurança.
+
+Fique à vontade para contribuir, sugerir novos desafios ou melhorias\!
