@@ -1,6 +1,6 @@
 # Exercício 01: O Analisador de Log Robusto (com Regex)
 
-## 🛡️ Módulo 1: Análise de Logs (Blue Team)
+## 🛡️ Módulo 1.1: Análise de Logs (Blue Team)
 
 - [Voltar ao Sumário](../SUMARIO.md)
 

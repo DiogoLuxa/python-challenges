@@ -1,6 +1,6 @@
 # Exercício 02: O Filtro Robusto de 'Acesso Negado' (com Regex)
 
-## 🛡️ Módulo 1: Análise de Logs (Blue Team)
+## 🛡️ Módulo 1.1: Análise de Logs (Blue Team)
 
 - [Voltar ao Sumário](../SUMARIO.md)
 
