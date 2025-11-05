@@ -1,4 +1,4 @@
-# Exercício 01: O Analisador de Log Robusto (com Regex)
+# Exercício 01: O Analisador de Log Robusto
 
 ## 🛡️ Módulo 1.1: Análise de Logs (Blue Team)
 

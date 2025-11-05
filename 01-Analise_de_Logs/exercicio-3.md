@@ -1,4 +1,4 @@
-# Exercício 03: O Analisador de Arquivo (Funções e Robustez)
+# Exercício 03: O Analisador de Arquivo
 
 ## 🛡️ Módulo 1.1: Análise de Logs (Blue Team)
 

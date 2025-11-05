@@ -1,4 +1,4 @@
-# Exercício 02: O Filtro Robusto de 'Acesso Negado' (com Regex)
+# Exercício 02: O Filtro Robusto de 'Acesso Negado'
 
 ## 🛡️ Módulo 1.1: Análise de Logs (Blue Team)
 

@@ -9,8 +9,8 @@ Este módulo foca nas habilidades essenciais de um analista de segurança (Blue 
 ### Seção 1.1: Análise de Logs e Dados
 * [Exercício 01: O Analisador de Log Básico](./01-Analise_de_Logs/exercicio-1.md)
 * [Exercício 02: O Filtro de 'Acesso Negado'](./01-Analise_de_Logs/exercicio-2.md)
-* ['Exercício 03: O Analisador de Arquivo'](./01-Analise_de_Logs/exercicio-3.md)
-* (Em breve: Exercício 04: O Dicionário de Ameaças - Agregando Dados)
+* [Exercício 03: O Analisador de Arquivo](./01-Analise_de_Logs/exercicio-3.md)
+* [Exercício 04: O Dicionário de Ameaças](./01-Analise_de_Logs/exercicio-4.md)
 * (Em breve: Exercício 05: O Escritor de Relatórios - Exportando para JSON/CSV)
 
 ### Seção 1.2: Forense e Resposta a Incidentes
