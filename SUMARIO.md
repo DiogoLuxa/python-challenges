@@ -2,7 +2,7 @@
 
 Aqui você encontra a lista completa de todos os desafios práticos de Python para Cibersegurança disponíveis no repositório.
 
-## Módulo 1: Defesa & Análise (Blue Team)
+## 🔵 Módulo 1: Defesa & Análise
 
 Este módulo foca nas habilidades essenciais de um analista de segurança (Blue Team): ler e processar dados, analisar logs, interagir com APIs de ameaças e automatizar a defesa e a forense.
 
@@ -22,7 +22,7 @@ Este módulo foca nas habilidades essenciais de um analista de segurança (Blue 
 * (Em breve: Exercício 09: O Cliente SSH - Módulo `paramiko`)
 * (Em breve: Exercício 10: O Sniffer de Rede - Módulo `scapy`)
 
-## Módulo 2: Ataque & Reconhecimento (Red Team)
+## 🔴 Módulo 2: Ataque & Reconhecimento
 
 Este módulo muda o foco para as habilidades de um pentester (Red Team): reconhecimento ativo, enumeração de serviços, *web scraping* e criação de ferramentas de ataque.
 
